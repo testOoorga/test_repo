@@ -5,3 +5,5 @@ TEST BUG ISSUE
 BUG
 
 HELLO BUG
+
+checkout test1
